@@ -1,0 +1,26 @@
+{
+    "name": "EPS32S3OnBoardLED",
+    "version": "1.0.0",
+    "description": "A \tiny library to address the multicolor LED found on many ESP32S3 boards",
+    "keywords": "ESP32S3, LED",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "homedatadev",
+        "email": "homedatadev@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "adafruit/Adafruit NeoPixel": "^1.12.2"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
+  
