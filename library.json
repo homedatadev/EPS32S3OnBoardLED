@@ -1,7 +1,7 @@
 {
     "name": "EPS32S3OnBoardLED",
     "version": "1.0.0",
-    "description": "A \tiny library to address the multicolor LED found on many ESP32S3 boards",
+    "description": "A tiny library to address the multicolor LED found on many ESP32S3 boards",
     "keywords": "ESP32S3, LED",
     "repository":
     {
